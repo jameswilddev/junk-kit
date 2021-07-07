@@ -21,7 +21,7 @@
     "@types/node": "12.12.38",
     "@types/pixelmatch": "5.2.1",
     "@types/pngjs": "3.4.2",
-    "@types/progress": "2.0.3",
+    "@types/progress": "2.0.4",
     "@types/pug": "2.0.4",
     "@types/puppeteer": "3.0.2",
     "@types/recursive-readdir": "2.2.0",
