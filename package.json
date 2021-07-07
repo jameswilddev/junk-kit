@@ -29,7 +29,7 @@
     "@types/uuid": "7.0.3",
     "archiver": "4.0.2",
     "bl": "4.0.2",
-    "chokidar": "3.4.0",
+    "chokidar": "3.5.2",
     "express": "4.17.1",
     "extract-zip": "2.0.1",
     "html-minifier": "4.0.0",
