@@ -13,7 +13,7 @@
     "test": "tsc --project tests/tsconfig.json && jasmine --config=jasmine.json"
   },
   "dependencies": {
-    "@types/archiver": "3.1.0",
+    "@types/archiver": "3.1.1",
     "@types/bl": "2.1.0",
     "@types/express": "4.17.6",
     "@types/html-minifier": "3.5.3",
