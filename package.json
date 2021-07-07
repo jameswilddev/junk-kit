@@ -34,7 +34,7 @@
     "extract-zip": "2.0.1",
     "html-minifier": "4.0.0",
     "jasmine": "3.5.0",
-    "jsonschema": "1.2.6",
+    "jsonschema": "1.4.0",
     "pixelmatch": "5.2.0",
     "pngjs": "5.0.0",
     "progress": "2.0.3",
